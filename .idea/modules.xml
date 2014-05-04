@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Lesson_1_loader/Lesson_1_loader.iml" filepath="$PROJECT_DIR$/../Lesson_1_loader/Lesson_1_loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_2_avatar.iml" filepath="$PROJECT_DIR$/Lesson_2_avatar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lesson_3_ResourceEditor/Lesson_3_ResourceEditor.iml" filepath="$PROJECT_DIR$/../Lesson_3_ResourceEditor/Lesson_3_ResourceEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lesson_4_MapEditor/Lesson_4_MapEditor.iml" filepath="$PROJECT_DIR$/../Lesson_4_MapEditor/Lesson_4_MapEditor.iml" />
+    </modules>
+  </component>
+</project>
+
